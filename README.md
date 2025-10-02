@@ -31,3 +31,5 @@ JavaScript ES6+ - Lógica da aplicação
 LocalStorage API - Armazenamento local
 
 Git - Controle de versão
+
+Fork por Miguel Hecht.
